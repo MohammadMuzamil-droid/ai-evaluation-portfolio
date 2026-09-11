@@ -49,3 +49,4 @@ The cases come from ChatGPT Go use in this documented environment. They may not 
 ## Case Library and Supporting Material
 
 [Complete case library](case-library/en/) | [Methodology](methodology/en/evaluation-methodology.md) | [Findings](reports/en/findings.md) | [Evidence mapping](evidence/README.md) | [QC report](portfolio-qc/release-gate-report.md)
+
