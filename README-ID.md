@@ -26,7 +26,7 @@ Portofolio memisahkan evidence, konteks percakapan, evaluasi pengguna, analisis 
 
 ## Ruang Lingkup dan Keterbatasan
 
-Kasus berasal dari penggunaan ChatGPT Go dalam lingkungan terdokumentasi ini. Kasus mungkin tidak berlaku untuk paket, konfigurasi, model, versi, fitur, atau produk lain. Penyebab historis hasil false-zero QC bersifat plausible tetapi belum confirmed karena script/log asli tidak tersedia.
+Kasus berasal dari penggunaan ChatGPT Go dalam lingkungan terdokumentasi ini. Kasus mungkin tidak berlaku untuk paket, konfigurasi, model, versi, fitur, atau produk lain. Penyebab historis hasil false-zero QC masuk akal tetapi belum terkonfirmasi karena skrip/log asli tidak tersedia.
 
 ## Kasus Unggulan
 
