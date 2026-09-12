@@ -1,10 +1,25 @@
-# CASE-007 — Perpustakaan Templat JSON dan penyimpangan alur kerja
+# CASE-007 — Template Library JSON dan penyimpangan workflow
 
-## Mengapa Kasus Ini Unggulan
+[Beranda portofolio](../../README-ID.md) · [Kasus unggulan](../../README-ID.md#kasus-unggulan) · [Kasus lengkap](../../case-library/id/CASE-007.md) · [English](../en/CASE-007.md)
 
-Insiden ini berpusat pada pertanyaan JSON multi-bagian tentang alur kerja Perpustakaan Templat. Asisten memperlakukannya sebagai undangan untuk merancang arsitektur baru daripada menjawab pertanyaan operasional yang disajikan. Oleh karena itu, bukti mendukung masalah klasifikasi maksud dan penyimpangan alur kerja, bukan penilaian bahwa diskusi desain selalu tidak tepat.
+## Apa yang Terjadi
 
-Kasus ini dipilih karena evidence yang jelas, dampak praktis, dan mekanisme evaluasi yang berbeda.
+Pengguna memberikan pertanyaan workflow JSON yang terdiri dari beberapa bagian. Respons beralih ke perancangan arsitektur baru, bukan lebih dahulu menyelesaikan pertanyaan operasional tentang struktur yang diberikan.
 
-[Baca kasus lengkap](../../case-library/id/CASE-007.md)
+## Mengapa Ini Penting
 
+Ide desain yang mungkin berguna tetap gagal memenuhi tugas jika menggantikan jawaban tingkat field atau workflow yang diminta.
+
+## Alasan Kasus Ini Dipilih
+
+Kasus ini memiliki perbedaan yang jelas antara permintaan aktif dan jenis tugas yang dipilih oleh respons.
+
+## Keterampilan Evaluator yang Ditunjukkan
+
+Klasifikasi intent, analisis input terstruktur, kepatuhan instruksi, dan evaluasi workflow.
+
+## Nilai yang Membedakan
+
+Kasus ini memisahkan relevansi jawaban dari kegunaan umum. Kasus ini tidak menyatakan bahwa pembahasan arsitektur selalu tidak tepat.
+
+[Baca kasus lengkap berbasis evidence](../../case-library/id/CASE-007.md)

@@ -1,10 +1,25 @@
 # CASE-024 — Evaluator and annotator roles conflated
 
-## Why This Case Is Featured
+[Portfolio home](../../README.md) · [Featured cases](../../README.md#featured-cases) · [Full case](../../case-library/en/CASE-024.md) · [Bahasa Indonesia](../id/CASE-024.md)
 
-The evidence records a training example in which an evaluator confused categories and the response attributed the classification error to the annotated actor rather than the evaluator. The correction preserves the role distinction. This supports an attribution failure, not a claim that the annotated actor’s underlying behaviour was flawless.
+## What Happened
 
-This case was selected for clear evidence, practical impact, and a distinct evaluation mechanism.
+In a training example, the evaluator made a category error. The response attributed that error to the annotated actor instead of the person who selected the label.
 
-[Read the full case](../../case-library/en/CASE-024.md)
+## Why It Matters
 
+Confusing these roles changes both the diagnosis and the corrective action.
+
+## Why This Case Was Selected
+
+It has a compact evidence chain and a clear responsibility test: who made the classification decision?
+
+## Evaluator Skill Demonstrated
+
+Role-aware reasoning, error attribution, consistency analysis, and bounded interpretation.
+
+## Distinct Value
+
+The case shows how an evaluator can test attribution without judging the actor’s broader behaviour or intent.
+
+[Read the full evidence-based case](../../case-library/en/CASE-024.md) · [Open the Deep Dive](../../deep-dives/en/CASE-024.md)

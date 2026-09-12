@@ -1,10 +1,25 @@
-# CASE-014 — Kegagalan fidelitas alur kerja dokumentasi
+# CASE-014 — Kegagalan fidelitas workflow dokumentasi
 
-## Mengapa Kasus Ini Unggulan
+[Beranda portofolio](../../README-ID.md) · [Kasus unggulan](../../README-ID.md#kasus-unggulan) · [Kasus lengkap](../../case-library/id/CASE-014.md) · [English](../en/CASE-014.md)
 
-Konsolidasi yang disetujui menggabungkan rangkaian dokumentasi-fidelitas di mana teks yang disetujui, pengambilan sumber, dan artefak yang dihasilkan tidak tetap selaras. Bukti menunjukkan alur kerja yang harus meneruskan konten yang disetujui dan mengambil sumber proyek yang tersedia sebelum meminta pengguna untuk mengirimkan ulang. Ini mendukung temuan fidelitas/proses, bukan klaim bahwa setiap dokumen yang dihasilkan sepenuhnya tidak dapat digunakan.
+## Apa yang Terjadi
 
-Kasus ini dipilih karena evidence yang jelas, dampak praktis, dan mekanisme evaluasi yang berbeda.
+Tiga rangkaian yang disetujui menunjukkan kesenjangan antara teks yang disetujui, sumber proyek yang tersedia, dan artefak yang dibuat. Workflow tidak selalu membawa sumber yang disetujui ke tahap berikutnya atau memeriksa materi yang tersedia sebelum memintanya kembali.
 
-[Baca kasus lengkap](../../case-library/id/CASE-014.md)
+## Mengapa Ini Penting
 
+Pengguna dapat menyetujui satu versi tetapi menerima, atau diminta membuat ulang, versi lain ketika lineage sumber terputus.
+
+## Alasan Kasus Ini Dipilih
+
+Kasus ini menghubungkan pengambilan sumber, persetujuan, pembuatan, dan pemeriksaan output sebagai satu workflow yang disiplin terhadap evidence.
+
+## Keterampilan Evaluator yang Ditunjukkan
+
+Analisis fidelitas dokumentasi, peninjauan hierarki sumber, evaluasi penggunaan alat, dan konsolidasi insiden.
+
+## Nilai yang Membedakan
+
+Kasus ini mengevaluasi integritas proses pada beberapa tahap. Kasus ini tidak menyatakan bahwa setiap dokumen yang dibuat sepenuhnya tidak dapat digunakan.
+
+[Baca kasus lengkap berbasis evidence](../../case-library/id/CASE-014.md) · [Buka Analisis Mendalam](../../deep-dives/id/CASE-014.md)

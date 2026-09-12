@@ -1,5 +1,7 @@
 # CASE-020 — Student-progress format mismatch
 
+[Portfolio home](../../README.md) · [Case library](README.md) · [Bahasa Indonesia](../id/CASE-020.md)
+
 ## Evaluation Environment
 
 - **Product:** ChatGPT
@@ -20,7 +22,7 @@ The public portfolio keeps the verified Evidence List and traceability records. 
 
 ## Status
 
-Second Corrective Revision Completed — Awaiting Independent Re-validation
+Archived
 
 ## Date
 

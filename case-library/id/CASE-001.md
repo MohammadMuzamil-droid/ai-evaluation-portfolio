@@ -1,5 +1,7 @@
 # CASE-001 — Penerapan instruksi kata 25 yang tidak konsisten
 
+[Beranda portofolio](../../README-ID.md) · [Pustaka kasus](README.md) · [English](../en/CASE-001.md)
+
 ## Lingkungan Evaluasi
 
 - **Produk:** ChatGPT
@@ -20,7 +22,7 @@ Portofolio publik menyimpan Daftar Evidence dan catatan keterlacakan yang telah 
 
 ## Status
 
-Revisi Korektif Kedua Selesai — Menunggu Validasi Ulang Independen
+Diarsipkan
 
 ## Tanggal
 
@@ -66,7 +68,7 @@ Mengikuti Instruksi; Inkonsistensi
 
 ## Ringkasan Evidence
 
-Empat pesan yang disimpan merekam perselisihan instruksi numerik: pengguna memberikan frasa “dalam 25 kata”, asisten memperlakukan latihan sebagai tugas dengan durasi maksimum, pengguna menantang pembacaan tersebut, dan tindak lanjut menerima interpretasi -25 yang tepat. Oleh karena itu, bukti mendukung ketidakkonsistenan dalam penerapan aturan penilaian yang disebutkan, bukan klaim tentang status model internal.
+Empat pesan yang disimpan merekam perselisihan instruksi numerik: pengguna memberikan frasa “dalam 25 kata”, asisten memperlakukan latihan sebagai tugas dengan batas maksimum 25 kata, pengguna menantang pembacaan tersebut, dan tindak lanjut menerima interpretasi tepat 25 kata. Oleh karena itu, bukti mendukung ketidakkonsistenan dalam penerapan aturan penilaian yang disebutkan, bukan klaim tentang status model internal.
 
 ## Evaluasi Pengguna
 

@@ -1,10 +1,25 @@
-# CASE-018 — Asumsi panjang perintah membalikkan arah yang diminta
+# CASE-018 — Asumsi panjang prompt membalikkan arah yang diminta
 
-## Mengapa Kasus Ini Unggulan
+[Beranda portofolio](../../README-ID.md) · [Kasus unggulan](../../README-ID.md#kasus-unggulan) · [Kasus lengkap](../../case-library/id/CASE-018.md) · [English](../en/CASE-018.md)
 
-Arsip tersebut berisi Instruksi Proyek lengkap sebelum dan sesudah penulisan ulang, ditambah pernyataan kelayakan, koreksi pengguna, dan permintaan penulisan ulang yang diperbarui. Pengukuran langsung memverifikasi 6,566 ke 5,482 karakter termasuk spasi (−1,084; 16.51% pengurangan), dan 5,558 hingga 4,601 tidak termasuk spasi (−957; 17.22%). Bukti mendukung asumsi panjang yang terbalik; itu tidak mendukung klaim sebelumnya tentang sekitar 40%.
+## Apa yang Terjadi
 
-Kasus ini dipilih karena evidence yang jelas, dampak praktis, dan mekanisme evaluasi yang berbeda.
+Sebelum menghasilkan rewrite yang diminta, asisten memperkirakan bahwa restrukturisasi akan membuat Project Instructions lebih panjang. Pasangan before dan after yang lengkap kemudian menunjukkan bahwa hasil rewrite lebih pendek.
 
-[Baca kasus lengkap](../../case-library/id/CASE-018.md)
+## Mengapa Ini Penting
 
+Asumsi kelayakan tanpa dukungan dapat mengalihkan tugas meskipun hasil yang diminta dapat diukur dan dicapai.
+
+## Alasan Kasus Ini Dipilih
+
+Kasus ini menggabungkan kronologi, rekonstruksi sumber mentah, dan pengukuran yang dapat direproduksi. Hasilnya adalah 6,566 menjadi 5,482 karakter termasuk whitespace (−1,084) dan 5,558 menjadi 4,601 tanpa whitespace (−957).
+
+## Keterampilan Evaluator yang Ditunjukkan
+
+Validasi kuantitatif, pengujian asumsi, rekonstruksi evidence, dan koreksi ketidakpastian.
+
+## Nilai yang Membedakan
+
+Pengurangan terukur adalah 16.51% dan 17.22%. Angka tersebut mendukung temuan bahwa hasil lebih pendek dan secara eksplisit tidak mendukung klaim lama sekitar 40%.
+
+[Baca kasus lengkap berbasis evidence](../../case-library/id/CASE-018.md) · [Buka Analisis Mendalam](../../deep-dives/id/CASE-018.md)

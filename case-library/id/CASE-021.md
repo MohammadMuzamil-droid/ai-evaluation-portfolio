@@ -1,5 +1,7 @@
 # CASE-021 — EKSTRAK menghasilkan ringkasan PDF
 
+[Beranda portofolio](../../README-ID.md) · [Pustaka kasus](README.md) · [English](../en/CASE-021.md)
+
 ## Lingkungan Evaluasi
 
 - **Produk:** ChatGPT
@@ -20,7 +22,7 @@ Portofolio publik menyimpan Daftar Evidence dan catatan keterlacakan yang telah 
 
 ## Status
 
-Revisi Korektif Kedua Selesai — Menunggu Validasi Ulang Independen
+Diarsipkan
 
 ## Tanggal
 

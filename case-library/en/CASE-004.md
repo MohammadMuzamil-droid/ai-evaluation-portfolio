@@ -1,5 +1,7 @@
 # CASE-004 — REVISE returned a change log instead of a revised draft
 
+[Portfolio home](../../README.md) · [Case library](README.md) · [Bahasa Indonesia](../id/CASE-004.md)
+
 ## Evaluation Environment
 
 - **Product:** ChatGPT
@@ -20,7 +22,7 @@ The public portfolio keeps the verified Evidence List and traceability records. 
 
 ## Status
 
-Second Corrective Revision Completed — Awaiting Independent Re-validation
+Archived
 
 ## Date
 

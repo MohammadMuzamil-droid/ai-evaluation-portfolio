@@ -1,6 +1,15 @@
 # Evidence Mapping
 
-This public layer keeps verified evidence identifiers. Original evidence excerpts and screenshots stay in the private archive.
+[Portfolio home](../README.md) · [Case library](../case-library/en/README.md) · [Methodology](../methodology/en/evaluation-methodology.md) · [Bahasa Indonesia](README-ID.md)
+
+This public layer keeps 132 verified evidence identifiers. Original evidence excerpts and screenshots stay in the private archive.
+
+## Legend
+
+- `CASE-###-E##` is a stable evidence reference for one preserved item in a case record.
+- A case’s **Evidence List**, **Source Traceability**, and **Chronology** explain the role and position of each reference.
+- The identifiers support auditability without publishing private screenshots or raw conversation excerpts.
+- Evidence IDs record source items. They do not turn conversation context, User Evaluation, or Technical Analysis into objective evidence.
 
 ## Case to Evidence
 

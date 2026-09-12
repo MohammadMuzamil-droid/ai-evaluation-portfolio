@@ -1,10 +1,25 @@
 # CASE-024 — Peran evaluator dan anotator digabungkan
 
-## Mengapa Kasus Ini Unggulan
+[Beranda portofolio](../../README-ID.md) · [Kasus unggulan](../../README-ID.md#kasus-unggulan) · [Kasus lengkap](../../case-library/id/CASE-024.md) · [English](../en/CASE-024.md)
 
-Bukti mencatat contoh pelatihan di mana evaluator mengacaukan kategori dan responsnya mengaitkan kesalahan klasifikasi dengan aktor yang diberi anotasi, bukan evaluator. Koreksi mempertahankan perbedaan peran. Hal ini mendukung kegagalan atribusi, bukan klaim bahwa perilaku mendasar aktor yang diberi anotasi itu sempurna.
+## Apa yang Terjadi
 
-Kasus ini dipilih karena evidence yang jelas, dampak praktis, dan mekanisme evaluasi yang berbeda.
+Dalam contoh pelatihan, evaluator membuat kesalahan kategori. Respons mengatribusikan kesalahan tersebut kepada aktor yang dianotasi, bukan kepada orang yang memilih label.
 
-[Baca kasus lengkap](../../case-library/id/CASE-024.md)
+## Mengapa Ini Penting
 
+Mencampuradukkan kedua peran ini mengubah diagnosis dan tindakan korektif.
+
+## Alasan Kasus Ini Dipilih
+
+Kasus ini memiliki rantai evidence yang ringkas dan pengujian tanggung jawab yang jelas: siapa yang membuat keputusan klasifikasi?
+
+## Keterampilan Evaluator yang Ditunjukkan
+
+Penalaran berbasis peran, atribusi kesalahan, analisis konsistensi, dan interpretasi terbatas.
+
+## Nilai yang Membedakan
+
+Kasus ini menunjukkan cara evaluator menguji atribusi tanpa menilai perilaku atau intent aktor secara lebih luas.
+
+[Baca kasus lengkap berbasis evidence](../../case-library/id/CASE-024.md) · [Buka Analisis Mendalam](../../deep-dives/id/CASE-024.md)

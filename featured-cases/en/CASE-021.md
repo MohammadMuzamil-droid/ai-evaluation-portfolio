@@ -1,10 +1,25 @@
 # CASE-021 — EXTRACT produced summary PDF
 
-## Why This Case Is Featured
+[Portfolio home](../../README.md) · [Featured cases](../../README.md#featured-cases) · [Full case](../../case-library/en/CASE-021.md) · [Bahasa Indonesia](../id/CASE-021.md)
 
-The preserved EXTRACT command required retention of the latest output, while the assistant produced a summary PDF that omitted or transformed material instead of preserving it. The correction focuses on EXTRACT semantics. The evidence supports a lossiness finding without claiming that summarisation is never useful when explicitly requested.
+## What Happened
 
-This case was selected for clear evidence, practical impact, and a distinct evaluation mechanism.
+The EXTRACT command required the latest output to be preserved. The response instead produced a summary PDF that omitted or changed source material.
 
-[Read the full case](../../case-library/en/CASE-021.md)
+## Why It Matters
 
+A polished summary is not a faithful extract when preservation is the command contract.
+
+## Why This Case Was Selected
+
+The requested operation and delivered artefact can be compared through a clear preservation-versus-condensation test.
+
+## Evaluator Skill Demonstrated
+
+Output-fidelity evaluation, tool-use analysis, instruction following, and information-loss detection.
+
+## Distinct Value
+
+The case shows that usefulness and compliance are different. It supports an information-loss finding but does not claim that summarisation is always wrong when explicitly requested.
+
+[Read the full evidence-based case](../../case-library/en/CASE-021.md)

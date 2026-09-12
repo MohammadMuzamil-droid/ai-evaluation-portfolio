@@ -1,6 +1,15 @@
 # Pemetaan Evidence
 
-Lapisan publik ini menyimpan identifier evidence yang telah diverifikasi. Kutipan evidence asli dan screenshot tetap berada di arsip privat.
+[Beranda portofolio](../README-ID.md) · [Pustaka kasus](../case-library/id/README.md) · [Metodologi](../methodology/id/evaluation-methodology.md) · [English](README.md)
+
+Lapisan publik ini menyimpan 132 identifier evidence yang telah diverifikasi. Kutipan evidence asli dan screenshot tetap berada di arsip privat.
+
+## Legenda
+
+- `CASE-###-E##` adalah referensi evidence stabil untuk satu item yang dipertahankan dalam catatan kasus.
+- **Daftar Evidence**, **Keterlacakan Sumber**, dan **Kronologi** pada kasus menjelaskan peran serta posisi setiap referensi.
+- Identifier mendukung auditabilitas tanpa memublikasikan screenshot privat atau kutipan percakapan mentah.
+- ID evidence mencatat item sumber. ID tersebut tidak mengubah konteks percakapan, Evaluasi Pengguna, atau Analisis Teknis menjadi evidence objektif.
 
 ## Kasus ke Evidence
 
